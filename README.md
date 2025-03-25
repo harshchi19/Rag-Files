@@ -1,4 +1,4 @@
-# free-rag
+# rag
 With the introduction of Large Language Models, RAG (Retrieval Augmented Generation) has become a prominent application field.   
 I believe that this strategy, which explicitly displays the benefits of Productive Artificial Intelligence, should have already been addressed globally and be well recognized.   
 As a result, I'll provide an open source example on how to build a basic RAG structure from start.   
